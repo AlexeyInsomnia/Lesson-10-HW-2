@@ -15,6 +15,7 @@
 
 
 @interface AppDelegate ()
+
 @property (strong, nonatomic) APGovernment* government;
 @property (strong, nonatomic) APPensioneer* pensioneer;
 @property (strong, nonatomic) APBusinessman* businessman;
